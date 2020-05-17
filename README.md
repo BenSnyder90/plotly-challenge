@@ -11,6 +11,6 @@ CWRU Data Analytics Bootcamp - Plotly.js Homework
 <b>/Bellybutton_Biodiversity/</b>
   * <b>/data/</b>
     * <b>samples.json</b> - JSON file that contains Belly Button Biodiversity catalog of microbes that colonize human navels
-  * <b>/static</b>
+  * <b>/static/js/</b>
     * <b>app.js</b> - Javascript file that reads samples JSON and creates charts using the data
   * Index.html - Base HTML file for Dashboard
